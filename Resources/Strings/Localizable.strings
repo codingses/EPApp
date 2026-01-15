@@ -1,0 +1,9 @@
+"app_name" = "EPApp";
+"welcome" = "Welcome to EPApp";
+"home" = "Home";
+"profile" = "Profile";
+"settings" = "Settings";
+"logout" = "Logout";
+"edit_profile" = "Edit Profile";
+"dark_mode" = "Dark Mode";
+"notifications" = "Enable Notifications";
